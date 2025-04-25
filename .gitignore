@@ -3,8 +3,10 @@
 
 # Ignorar o arquivo main.py
 main.py
+derby.log
 
 # Ignorar a pasta venv (ambientes virtuais)
 venv/
 
-spark-metastore/
+metastore_db/
+spark-warehouse/
