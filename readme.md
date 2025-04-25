@@ -2,6 +2,13 @@
 **são funções utilizadas para a criação de tabelas no metastore do Spark.**
 
 ---
+**Ambiente**
+Para executar o modelo, segue necessário a instalação das dependências
+```bash
+pip install -r requirements.txt
+```
+
+---
 
 > Função SAVEAS()
 - Usar o modo overwrite garante que a tabela existente seja excluída e recriada com os novos dados.
