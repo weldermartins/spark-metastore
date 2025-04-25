@@ -1,0 +1,10 @@
+# Ignorar a pasta .idea (usada por IDEs como PyCharm)
+.idea/
+
+# Ignorar o arquivo main.py
+main.py
+
+# Ignorar a pasta venv (ambientes virtuais)
+venv/
+
+spark-metastore/
