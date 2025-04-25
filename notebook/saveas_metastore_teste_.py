@@ -2,6 +2,7 @@ from pyspark.shell import spark
 from pyspark.sql.types import StructType, StructField, IntegerType, StringType
 
 
+
 # Definição do esquema dos dados
 schema = StructType([
     StructField("id", IntegerType(), True),
